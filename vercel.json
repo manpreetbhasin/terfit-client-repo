@@ -8,6 +8,5 @@
       "main": true,
       "preview": true
     }
-  },
-  "ignoreCommand": "exit 0"
+  }
 }
