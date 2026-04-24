@@ -1,0 +1,13 @@
+{
+  "github": {
+    "silent": true,
+    "autoJobCancelation": false
+  },
+  "git": {
+    "deploymentEnabled": {
+      "main": true,
+      "preview": true
+    }
+  },
+  "ignoreCommand": "exit 0"
+}
